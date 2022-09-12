@@ -6,7 +6,7 @@ ________________________________________________________________________________
 
 ![](https://komarev.com/ghpvc/?username=birender&color=green&style=flat-square)
 <!-- [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/debjit-pal-539214192)-->
-[![Twitter Badge](https://img.shields.io/badge/-Twitter-00acee?style=flat-square&logo=Twitter&logoColor=white)](https://twitter.com/birender_rana)
+[![Twitter Badge](https://img.shields.io/badge/-Twitter-00acee?style=flat-square&logo=Twitter&logoColor=white)](https://twitter.com/birenderrana)
 <!-- 
 [![Instagram Badge](https://img.shields.io/badge/-Instagram-e4405f?style=flat-square&logo=Instagram&logoColor=white)](https://www.instagram.com/debjitpal5040)
 [![Facebook Badge](https://img.shields.io/badge/-facebook-1778F2?style=flat-square&logo=facebook&logoColor=white)](https://www.facebook.com/debjit.pal.18847)
